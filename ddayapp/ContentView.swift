@@ -26,6 +26,7 @@ struct ContentView: View {
         Text("D-day")
             .font(.title)
             .fontWeight(.bold)
+        Text("무~야~~호~~~")
     }
 }
 
